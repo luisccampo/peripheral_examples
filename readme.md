@@ -1,3 +1,4 @@
+# Proyectos Silicon Labs
 # MCU Peripheral Examples #
 This repo contains simple peripheral examples based on emlib for Series 0 and Series 1 devices.
 
